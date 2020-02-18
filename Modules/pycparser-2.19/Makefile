@@ -1,5 +1,5 @@
-NAME = six
-VERSION = 1.4.1
+NAME = pycparser
+VERSION = 2.19
 
 include ../Makefile.inc
 
